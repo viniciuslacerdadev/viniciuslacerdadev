@@ -10,18 +10,8 @@ file-text "<div align=\"center\">
 
 ## 🧑‍💻 Sobre Mim
 
-```javascript
-const vinicius = {
-    pronouns: \"ele/him\",
-    role: \"Desenvolvedor Front-end Júnior\",
-    location: \"Brasil 🇧🇷\",
-    currentFocus: \"Construindo interfaces web incríveis\",
-    mindset: \"Sempre aprendendo, sempre evoluindo 📈\",
-    code: [\"HTML5\", \"CSS3\", \"JavaScript\"],
-    askMeAbout: [\"web dev\", \"tech\", \"design\", \"inovação\"],
-    challenge: \"Mestre em transformar café em código ☕ → 💻\"
-};
-```
+
+
 
 ---
 
