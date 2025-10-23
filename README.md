@@ -1,4 +1,4 @@
-Action: file_editor create /app/GITHUB_PROFILE_README.md --file-text "<div align=\"center\">
+file-text "<div align=\"center\">
   <img src=\"https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Lacerda!+%F0%9F%91%8B;Desenvolvedor+Front-end+em+crescimento+%F0%9F%9A%80;Apaixonado+por+tecnologia+e+c%C3%B3digo+limpo+%F0%9F%92%BB\" alt=\"Typing SVG\" />
 </div>
 
